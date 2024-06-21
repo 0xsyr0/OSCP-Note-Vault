@@ -1,0 +1,8 @@
+| IP address      | Name | OS            | Access    | FLAGS       | Status        |
+| --------------- | ---- | ------------- | --------- | ----------- | ------------- |
+| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
+| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
+| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
+| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
+| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
+| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
