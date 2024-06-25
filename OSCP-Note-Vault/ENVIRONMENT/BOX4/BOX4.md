@@ -1,7 +1,7 @@
 
-| IP address      | Name | OS            | Access    | FLAGS       | Status        |
-| --------------- | ---- | ------------- | --------- | ----------- | ------------- |
-| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | LOCAL/PROOF | NOT-PWND/PWND |
+| IP address      | Name | OS            | Access    | Password / Hash | FLAGS            | Status        |
+| --------------- | ---- | ------------- | --------- | --------------- | ---------------- | ------------- |
+| XXX.XXX.XXX.XXX | BOX4 | WINDOWS/LINUX | `COMMAND` | `PASSWORD/HASH` | NONE/LOCAL/PROOF | NOT-PWND/PWND |
 
 ## Table of Contents
 
@@ -48,13 +48,13 @@
 
 ```
 
-## Enumeration
+## local.txt
 
 ```c
 
 ```
 
-## local.txt
+## Enumeration
 
 ```c
 
