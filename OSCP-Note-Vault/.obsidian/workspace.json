@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "ae86c46a0c41bbc0",
+    "id": "603d1fba40801e07",
     "type": "split",
     "children": [
       {
-        "id": "ad80e06f7bc66631",
+        "id": "28585a360b3ba90d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a35481697858d7d",
+            "id": "f8f2bc0b7dbf5e25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ENVIRONMENT/BOX1/BOX1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78409016aadf3b36",
+    "id": "200079fee5d3108d",
     "type": "split",
     "children": [
       {
-        "id": "2b2f265312938be9",
+        "id": "1bcaa061d71701fa",
         "type": "tabs",
         "children": [
           {
-            "id": "96de12bc991a6b40",
+            "id": "ff72c5c2a0a1fefb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "cf4e25485bf81c34",
+            "id": "9b1ebf18366cbad6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "dfd2eddf87cca24a",
+            "id": "97a119fac12add38",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "9f54462f758cd455",
+    "id": "25085ec7801474ea",
     "type": "split",
     "children": [
       {
-        "id": "daab2280c6ee822f",
+        "id": "f38b044271104393",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1fcbc98115f736",
+            "id": "1ca2056fd1ab4d7a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ENVIRONMENT/BOX1/BOX1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "fcd7239461efaffe",
+            "id": "fd49f0fc7b6e287d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ENVIRONMENT/BOX1/BOX1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "12c1d8d717e21312",
+            "id": "6ae629ddb3993e82",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "a9610182e382b467",
+            "id": "702eaffec2482251",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ENVIRONMENT/BOX1/BOX1.md"
+              }
             }
           }
         ]
@@ -138,6 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a35481697858d7d",
-  "lastOpenFiles": []
+  "active": "f8f2bc0b7dbf5e25",
+  "lastOpenFiles": [
+    "ACCESS/ACCESS.md",
+    "WORDLISTS/GATHERED_PASSWORDS.md",
+    "WORDLISTS/GATHERED_USERNAMES.md",
+    "ACCESS/CREDENTIALS.md",
+    "WORDLISTS",
+    "ACCESS/PORT FORWARDING.md",
+    "ENVIRONMENT/BOX1/BOX1.md",
+    "ENVIRONMENT/BOX6/BOX6.md",
+    "ENVIRONMENT/BOX5/BOX5.md",
+    "ENVIRONMENT/BOX4/BOX4.md",
+    "ENVIRONMENT/BOX3/BOX3.md",
+    "ENVIRONMENT/BOX2/BOX2.md",
+    "ENVIRONMENT/BOX6/files",
+    "ENVIRONMENT/BOX5/files",
+    "ENVIRONMENT/BOX4/files",
+    "ENVIRONMENT/BOX3/files",
+    "ENVIRONMENT/BOX2/files",
+    "ENVIRONMENT/BOX1/files",
+    "ENVIRONMENT/BOX6/images",
+    "ENVIRONMENT/BOX5/images",
+    "ENVIRONMENT/BOX4/images",
+    "Welcome.md"
+  ]
 }
