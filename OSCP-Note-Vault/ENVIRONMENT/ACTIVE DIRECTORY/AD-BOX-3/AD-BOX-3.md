@@ -1,7 +1,7 @@
 
-| IP address      | Name | OS            | Access    | Password / Hash | FLAGS            | Status        |
-| --------------- | ---- | ------------- | --------- | --------------- | ---------------- | ------------- |
-| XXX.XXX.XXX.XXX | BOX6 | WINDOWS/LINUX | `COMMAND` | `PASSWORD/HASH` | NONE/LOCAL/PROOF | NOT-PWND/PWND |
+| IP address      | Name     | OS            | Access    | Password / Hash | FLAGS            | Status        |
+| --------------- | -------- | ------------- | --------- | --------------- | ---------------- | ------------- |
+| XXX.XXX.XXX.XXX | AD-BOX-1 | WINDOWS/LINUX | `COMMAND` | `PASSWORD/HASH` | NONE/LOCAL/PROOF | NOT-PWND/PWND |
 
 ## Table of Contents
 

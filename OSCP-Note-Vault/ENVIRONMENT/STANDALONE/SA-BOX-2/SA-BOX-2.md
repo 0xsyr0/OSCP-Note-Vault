@@ -1,7 +1,7 @@
 
-| IP address      | Name | OS            | Access    | Password / Hash | FLAGS            | Status        |
-| --------------- | ---- | ------------- | --------- | --------------- | ---------------- | ------------- |
-| XXX.XXX.XXX.XXX | BOX1 | WINDOWS/LINUX | `COMMAND` | `PASSWORD/HASH` | NONE/LOCAL/PROOF | NOT-PWND/PWND |
+| IP address      | Name     | OS            | Access    | Password / Hash | FLAGS            | Status        |
+| --------------- | -------- | ------------- | --------- | --------------- | ---------------- | ------------- |
+| XXX.XXX.XXX.XXX | SA-BOX-2 | WINDOWS/LINUX | `COMMAND` | `PASSWORD/HASH` | NONE/LOCAL/PROOF | NOT-PWND/PWND |
 
 ## Table of Contents
 
