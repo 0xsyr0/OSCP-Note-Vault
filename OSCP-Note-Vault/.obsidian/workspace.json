@@ -11,8 +11,12 @@
             "id": "040bb15767322c71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ACCESS/ACCESS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ACCESS/ACCESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ACCESS/ACCESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ACCESS/ACCESS.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "040bb15767322c71",
   "lastOpenFiles": [
+    "ENVIRONMENT/STANDALONE/SA-BOX-3/SA-BOX-3.md",
+    "ENVIRONMENT/STANDALONE/SA-BOX-2/SA-BOX-2.md",
+    "ENVIRONMENT/STANDALONE/SA-BOX-1/SA-BOX-1.md",
     "ACCESS/ACCESS.md",
     "ACCESS/PORT FORWARDING.md",
     "ACCESS/CREDENTIALS.md",
     "ENVIRONMENT/ACTIVE DIRECTORY/AD-BOX-1/MS01.md",
     "ENVIRONMENT/ACTIVE DIRECTORY/AD-BOX-2/MS02.md",
     "ENVIRONMENT/ACTIVE DIRECTORY/AD-BOX-3/DC01.md",
-    "ENVIRONMENT/STANDALONE/SA-BOX-3/SA-BOX-3.md",
-    "ENVIRONMENT/STANDALONE/SA-BOX-2/SA-BOX-2.md",
-    "ENVIRONMENT/STANDALONE/SA-BOX-1/SA-BOX-1.md",
     "ENVIRONMENT/ACTIVE DIRECTORY",
     "ENVIRONMENT/STANDALONE",
     "WORDLISTS/GATHERED_PASSWORDS.md",

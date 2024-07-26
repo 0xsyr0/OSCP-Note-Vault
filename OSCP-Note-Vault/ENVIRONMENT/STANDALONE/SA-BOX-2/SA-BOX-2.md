@@ -83,9 +83,3 @@
 ```c
 
 ```
-
-## Post Exploitation
-
-```c
-
-```
